@@ -1,4 +1,4 @@
-Portfolio Webpage
+<h1>Portfolio Webpage
 
 Description
 
@@ -45,13 +45,7 @@ Screenshots
 
 ![image](https://github.com/WAbreu738/portfolio_starter/assets/139182882/c8b1c4c2-a608-48cd-b549-4a98c100de77)
 
-
-Usage
-
-
-Clone the repository.
-
-Open the index.html file in a web browser to view the portfolio webpage.
+https://wabreu738.github.io/portfolio_starter/
 
 
 Future Development
@@ -59,12 +53,6 @@ Future Development
 
 Add more projects to the portfolio.
 
-Implement animations for a more engaging user experience.
-
-Improve accessibility features.
-
-
-Deployment
 
 
 
